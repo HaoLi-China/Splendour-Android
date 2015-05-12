@@ -1,0 +1,80 @@
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+    android:background="@drawable/bg_main">
+    
+    
+    <ImageView android:id="@+id/ch_scene"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:layout_x="50dp"
+	    android:layout_y="50dp"
+	    android:contentDescription="@string/app_name"
+        />
+    
+    <TextView android:id="@+id/tv_scene"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="270dp"
+	    android:layout_y="33dp"
+	    android:textSize="20dp"
+	    android:textColor="#0000ff"
+        />
+    
+     <ImageView android:id="@+id/bg_scenekk"
+        android:layout_width="354dp"
+        android:layout_height="274dp"
+        android:layout_x="143dp"
+	    android:layout_y="63dp"
+	    android:contentDescription="@string/app_name"
+        />
+    
+    <ImageButton android:id="@+id/pre_scene"
+        android:layout_width="50dp"
+        android:layout_height="60dp"
+        android:layout_x="70dp"
+	    android:layout_y="150dp"
+	    android:contentDescription="@string/app_name"
+        />
+    
+    <ImageView android:id="@+id/bg_scene"
+        android:layout_width="320dp"
+        android:layout_height="240dp"
+        android:layout_x="160dp"
+	    android:layout_y="80dp"
+	    android:contentDescription="@string/app_name"
+        />
+    
+    <ImageButton android:id="@+id/next_scene"
+        android:layout_width="50dp"
+        android:layout_height="60dp"
+        android:layout_x="510dp"
+	    android:layout_y="150dp"
+	    android:contentDescription="@string/app_name"
+        />
+    
+    <ImageButton android:id="@+id/unlock_scene"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:layout_x="270dp"
+	    android:layout_y="265dp"
+	    android:contentDescription="@string/app_name"
+        />
+    <ImageButton android:id="@+id/begin_game"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:layout_x="270dp"
+	    android:layout_y="265dp"
+	    android:contentDescription="@string/app_name"
+        />
+    
+    
+     <ImageButton  android:id="@+id/bt_sback"
+         android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_x="520dp"
+	    android:layout_y="250dp"
+	    android:contentDescription="@string/app_name"
+        />
+</AbsoluteLayout>

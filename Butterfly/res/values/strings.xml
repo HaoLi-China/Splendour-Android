@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">蝶舞</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_gamemain">Gamemain</string>
+    
+     
+     <string name="begingame">开始游戏</string>
+     <string name="setgame">游戏设置</string>
+     <string name="helpgame">游戏帮助</string>
+     <string name="title">游戏名称及logo</string>
+     <string name="buymoney">兑换金币</string>
+     <string name="nowmoney">剩余金币：</string>
+     <string name="buytools">购买道具</string>
+     
+     
+</resources>

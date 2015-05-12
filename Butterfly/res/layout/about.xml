@@ -1,0 +1,21 @@
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+    android:background="@drawable/bg_main">
+    
+    <ImageView android:id="@+id/bg_about"
+        android:layout_width="400dp"
+        android:layout_height="300dp"
+        android:layout_x="90dp"
+	    android:layout_y="28dp"
+	    android:contentDescription="@string/app_name"
+        />
+    <ImageButton  android:id="@+id/bt_aback"
+         android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_x="520dp"
+	    android:layout_y="240dp"
+	    android:contentDescription="@string/app_name"
+        />
+</AbsoluteLayout>
